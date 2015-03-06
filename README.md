@@ -27,4 +27,4 @@ define command {
 }
 ```
 
-
+inspired by http://www.lecentre.net/blog/archives/1311 which had incomplete code
